@@ -1,0 +1,138 @@
+{
+  "chronicDiseasesList": [
+  {
+    "ma": "0",
+    "ten": "Bệnh Alzheimer và mất trí nhớ"
+  },
+  {
+    "ma": "0",
+    "ten": "Viêm khớp"
+  },
+  {
+    "ma": "0",
+    "ten": "Hen suyễn"
+  },
+  {
+    "ma": "0",
+    "ten": "Ung thư"
+  },
+  {
+    "ma": "0",
+    "ten": "Bệnh tắc nghẽn phổi mãn tính COPD"
+  },
+  {
+    "ma": "0",
+    "ten": "Bệnh Crohn"
+  },
+  {
+    "ma": "0",
+    "ten": "Xơ nang"
+  },
+  {
+    "ma": "0",
+    "ten": "Bệnh tiểu đường"
+  },
+  {
+    "ma": "0",
+    "ten": "Động kinh"
+  },
+  {
+    "ma": "0",
+    "ten": "Bệnh tim"
+  },
+  {
+    "ma": "0",
+    "ten": "HIV/AIDS"
+  },
+  {
+    "ma": "0",
+    "ten": "Rối loạn tâm trạng"
+  },
+  {
+    "ma": "0",
+    "ten": "Đa xơ cứng"
+  },
+  {
+    "ma": "0",
+    "ten": "Bệnh Parkinson"
+  }
+],
+"symptomList": [
+  {
+    "ma": "0",
+    "ten": "Sốt hoặc ớn lanh"
+  },
+  {
+    "ma": "0",
+    "ten": "Đổ mồ hôi đêm"
+  },
+  {
+    "ma": "0",
+    "ten": "Phát ban"
+  },
+  {
+    "ma": "0",
+    "ten": "Cảm thấy đau đớn hoặc khó chịu nào ở ngực"
+  },
+  {
+    "ma": "0",
+    "ten": "Khó thở"
+  },
+  {
+    "ma": "0",
+    "ten": "Phù mắt cá chân"
+  },
+  {
+    "ma": "0",
+    "ten": "Ho khan hay ho có đờm"
+  },
+  {
+    "ma": "0",
+    "ten": "Sụt cân bất thường"
+  },
+  {
+    "ma": "0",
+    "ten": "Cảm thấy no sau khi ăn rất ít"
+  },
+  {
+    "ma": "0",
+    "ten": "Khó chịu ở dạ dày sau khi ăn"
+  },
+  {
+    "ma": "0",
+    "ten": "Đau đầu nhẹ hoặc trầm trọng"
+  },
+  {
+    "ma": "0",
+    "ten": "Tính dễ bị kích thích"
+  },
+  {
+    "ma": "0",
+    "ten": "Cảm thấy lo lắng nhiều gần đây"
+  },
+  {
+    "ma": "0",
+    "ten": "Đau mắt, sợ ánh sáng hoặc đỏ mắt"
+  },
+  {
+    "ma": "0",
+    "ten": "Chóng mặt hay có lúc thấy mọi thứ quay vòng"
+  },
+  {
+    "ma": "0",
+    "ten": "Mờ mắt"
+  },
+  {
+    "ma": "0",
+    "ten": "Đau, tê cứng khớp"
+  },
+  {
+    "ma": "0",
+    "ten": "Nóng, đỏ hoặc sưng chỗ các khớp"
+  },
+  {
+    "ma": "0",
+    "ten": "Mất thị lực ngắn hạn, mất kiểm soát"
+  }
+]
+}
